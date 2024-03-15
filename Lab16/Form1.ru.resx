@@ -118,292 +118,80 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="binarydatToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>178, 26</value>
-  </data>
-  <data name="&gt;&gt;binarydatToolStripMenuItem.Name" xml:space="preserve">
-    <value>binarydatToolStripMenuItem</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="&gt;&gt;xmlxmlToolStripMenuItem1.Name" xml:space="preserve">
-    <value>xmlxmlToolStripMenuItem1</value>
-  </data>
-  <data name="добавитьToolStripMenuItem.Text" xml:space="preserve">
-    <value>Добавить</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="удалитьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>159, 26</value>
-  </data>
-  <data name="&gt;&gt;сортировкаToolStripMenuItem.Name" xml:space="preserve">
-    <value>сортировкаToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;файлToolStripMenuItem.Name" xml:space="preserve">
-    <value>файлToolStripMenuItem</value>
-  </data>
-  <data name="menuStrip1.Text" xml:space="preserve">
-    <value>menuStrip1</value>
-  </data>
-  <data name="&gt;&gt;xmlxmlToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;фильтрацияToolStripMenuItem.Name" xml:space="preserve">
-    <value>фильтрацияToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;удалитьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>782, 493</value>
-  </data>
-  <data name="&gt;&gt;коллекцияToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="загрузитьToolStripMenuItem.Text" xml:space="preserve">
-    <value>Загрузить</value>
-  </data>
-  <data name="&gt;&gt;вручнуюToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="xmlxmlToolStripMenuItem.Text" xml:space="preserve">
-    <value>xml (*.xml)</value>
-  </data>
-  <data name="toolStripStatusLabel1.Text" xml:space="preserve">
-    <value>...?</value>
-  </data>
-  <data name="binarybinToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>177, 26</value>
-  </data>
-  <data name="&gt;&gt;пустойToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;binarydatToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="печатьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 24</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel1.Name" xml:space="preserve">
-    <value>toolStripStatusLabel1</value>
-  </data>
-  <data name="&gt;&gt;очиститьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;binarybinToolStripMenuItem.Name" xml:space="preserve">
-    <value>binarybinToolStripMenuItem</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Лаб. работа №16: Вариант 10</value>
-  </data>
-  <data name="&gt;&gt;сортировкаToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 20</value>
-  </data>
-  <data name="&gt;&gt;фильтрацияToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;поКлючуToolStripMenuItem.Name" xml:space="preserve">
-    <value>поКлючуToolStripMenuItem</value>
-  </data>
-  <data name="коллекцияToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>98, 24</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="xmlxmlToolStripMenuItem1.Text" xml:space="preserve">
-    <value>xml (*.xml)</value>
-  </data>
-  <data name="сохранитьToolStripMenuItem.Text" xml:space="preserve">
-    <value>Сохранить</value>
-  </data>
-  <data name="binarydatToolStripMenuItem.Text" xml:space="preserve">
-    <value>binary (*.dat)</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
-    <value>menuStrip1</value>
-  </data>
-  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 467</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
-    <value>richTextBox1</value>
-  </data>
-  <data name="&gt;&gt;печатьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="вручнуюToolStripMenuItem.Text" xml:space="preserve">
-    <value>Вручную</value>
-  </data>
-  <data name="jsonjsonToolStripMenuItem.Text" xml:space="preserve">
-    <value>json (*.json)</value>
-  </data>
-  <data name="очиститьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>159, 26</value>
-  </data>
-  <data name="jsonjsonToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>177, 26</value>
-  </data>
-  <data name="&gt;&gt;сохранитьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="xmlxmlToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>177, 26</value>
-  </data>
-  <data name="&gt;&gt;печатьToolStripMenuItem.Name" xml:space="preserve">
-    <value>печатьToolStripMenuItem</value>
-  </data>
-  <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="файлToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 24</value>
-  </data>
-  <data name="удалитьToolStripMenuItem.Text" xml:space="preserve">
-    <value>Удалить</value>
-  </data>
-  <data name="&gt;&gt;загрузитьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;создатьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="поКлючуToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
-  </data>
-  <data name="&gt;&gt;сохранитьToolStripMenuItem.Name" xml:space="preserve">
-    <value>сохранитьToolStripMenuItem</value>
-  </data>
-  <data name="добавитьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>159, 26</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="файлToolStripMenuItem.Text" xml:space="preserve">
-    <value>Файл</value>
-  </data>
-  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 28</value>
-  </data>
-  <data name="&gt;&gt;дСЧToolStripMenuItem.Name" xml:space="preserve">
-    <value>дСЧToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;создатьToolStripMenuItem.Name" xml:space="preserve">
-    <value>создатьToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="statusStrip1.Text" xml:space="preserve">
-    <value>statusStrip1</value>
-  </data>
-  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="toolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 20</value>
-  </data>
-  <data name="поискToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>159, 26</value>
-  </data>
-  <data name="поискToolStripMenuItem.Text" xml:space="preserve">
-    <value>Поиск</value>
-  </data>
-  <data name="&gt;&gt;jsonjsonToolStripMenuItem.Name" xml:space="preserve">
-    <value>jsonjsonToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="загрузитьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 26</value>
-  </data>
-  <data name="дСЧToolStripMenuItem.Text" xml:space="preserve">
-    <value>ДСЧ</value>
-  </data>
-  <data name="&gt;&gt;добавитьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="поВозрастуToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
-  </data>
-  <data name="&gt;&gt;поФамилииToolStripMenuItem.Name" xml:space="preserve">
-    <value>поФамилииToolStripMenuItem</value>
-  </data>
-  <data name="фильтрацияToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
-  </data>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;поВозрастуToolStripMenuItem.Name" xml:space="preserve">
-    <value>поВозрастуToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;коллекцияToolStripMenuItem.Name" xml:space="preserve">
-    <value>коллекцияToolStripMenuItem</value>
-  </data>
   <data name="пустойToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 26</value>
-  </data>
-  <data name="запросToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 24</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;удалитьToolStripMenuItem.Name" xml:space="preserve">
-    <value>удалитьToolStripMenuItem</value>
-  </data>
-  <data name="binarybinToolStripMenuItem.Text" xml:space="preserve">
-    <value>binary (*.bin)</value>
-  </data>
-  <data name="поФамилииToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
-  </data>
-  <data name="создатьToolStripMenuItem.Text" xml:space="preserve">
-    <value>Создать</value>
+    <value>252, 26</value>
   </data>
   <data name="заданнойДлиныToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 26</value>
+    <value>252, 26</value>
   </data>
-  <data name="&gt;&gt;заданнойДлиныToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="заданнойДлиныToolStripMenuItem.Text" xml:space="preserve">
+    <value>Заданной длины (ДСЧ)</value>
   </data>
-  <data name="&gt;&gt;jsonjsonToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="создатьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
   </data>
-  <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="добавитьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
   </data>
-  <data name="jsonjsonToolStripMenuItem1.Text" xml:space="preserve">
-    <value>json (*.json)</value>
+  <data name="корректироватьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
   </data>
-  <data name="&gt;&gt;поВозрастуToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="корректироватьToolStripMenuItem.Text" xml:space="preserve">
+    <value>Корректировать</value>
   </data>
-  <data name="&gt;&gt;дСЧToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="удалитьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
   </data>
-  <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>782, 26</value>
+  <data name="очиститьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
+  </data>
+  <data name="поискToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 26</value>
+  </data>
+  <data name="поВозрастуToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 26</value>
+  </data>
+  <data name="поВозрастуToolStripMenuItem.Text" xml:space="preserve">
+    <value>по возрасту</value>
+  </data>
+  <data name="поФамилииToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 26</value>
+  </data>
+  <data name="поФамилииToolStripMenuItem.Text" xml:space="preserve">
+    <value>по фамилии</value>
+  </data>
+  <data name="поКлючуToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 26</value>
+  </data>
+  <data name="поКлючуToolStripMenuItem.Text" xml:space="preserve">
+    <value>по ключу</value>
+  </data>
+  <data name="сортировкаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 26</value>
+  </data>
+  <data name="сортировкаToolStripMenuItem.Text" xml:space="preserve">
+    <value>Сортировка</value>
+  </data>
+  <data name="фильтрацияToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 26</value>
+  </data>
+  <data name="фильтрацияToolStripMenuItem.Text" xml:space="preserve">
+    <value>Фильтрация</value>
+  </data>
+  <data name="запросToolStripMenuItem.Text" xml:space="preserve">
+    <value>Запрос</value>
+  </data>
+  <data name="печатьToolStripMenuItem.Text" xml:space="preserve">
+    <value>Печать</value>
+  </data>
+  <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>782, 485</value>
+  </data>
+  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 487</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>782, 513</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -606,142 +394,7 @@
         QmCC
 </value>
   </data>
-  <data name="коллекцияToolStripMenuItem.Text" xml:space="preserve">
-    <value>Коллекция</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Лаб. работа №16</value>
   </data>
-  <data name="создатьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>159, 26</value>
-  </data>
-  <data name="&gt;&gt;поискToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;xmlxmlToolStripMenuItem.Name" xml:space="preserve">
-    <value>xmlxmlToolStripMenuItem</value>
-  </data>
-  <data name="очиститьToolStripMenuItem.Text" xml:space="preserve">
-    <value>Очистить</value>
-  </data>
-  <data name="&gt;&gt;binarybinToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="вручнуюToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 26</value>
-  </data>
-  <data name="jsonjsonToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>178, 26</value>
-  </data>
-  <data name="richTextBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="&gt;&gt;корректироватьToolStripMenuItem.Name" xml:space="preserve">
-    <value>корректироватьToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;jsonjsonToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;файлToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;вручнуюToolStripMenuItem.Name" xml:space="preserve">
-    <value>вручнуюToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;поКлючуToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;заданнойДлиныToolStripMenuItem.Name" xml:space="preserve">
-    <value>заданнойДлиныToolStripMenuItem</value>
-  </data>
-  <data name="сохранитьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 26</value>
-  </data>
-  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>782, 28</value>
-  </data>
-  <data name="&gt;&gt;очиститьToolStripMenuItem.Name" xml:space="preserve">
-    <value>очиститьToolStripMenuItem</value>
-  </data>
-  <data name="сортировкаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.Name" xml:space="preserve">
-    <value>statusStrip1</value>
-  </data>
-  <data name="&gt;&gt;корректироватьToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;добавитьToolStripMenuItem.Name" xml:space="preserve">
-    <value>добавитьToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;загрузитьToolStripMenuItem.Name" xml:space="preserve">
-    <value>загрузитьToolStripMenuItem</value>
-  </data>
-  <data name="корректироватьToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
-  </data>
-  <data name="&gt;&gt;xmlxmlToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;пустойToolStripMenuItem.Name" xml:space="preserve">
-    <value>пустойToolStripMenuItem</value>
-  </data>
-  <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>782, 465</value>
-  </data>
-  <data name="&gt;&gt;запросToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="дСЧToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 26</value>
-  </data>
-  <data name="&gt;&gt;jsonjsonToolStripMenuItem1.Name" xml:space="preserve">
-    <value>jsonjsonToolStripMenuItem1</value>
-  </data>
-  <data name="пустойToolStripMenuItem.Text" xml:space="preserve">
-    <value>Пустой</value>
-  </data>
-  <data name="&gt;&gt;запросToolStripMenuItem.Name" xml:space="preserve">
-    <value>запросToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;поискToolStripMenuItem.Name" xml:space="preserve">
-    <value>поискToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;поФамилииToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="заданнойДлиныToolStripMenuItem.Text" xml:space="preserve">
-    <value>Заданной длины</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="&gt;&gt;toolStripStatusLabel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="xmlxmlToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>178, 26</value>
-  </data>
-  <metadata name="richTextBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
-    <value>ru</value>
-  </metadata>
-  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>153, 17</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
 </root>

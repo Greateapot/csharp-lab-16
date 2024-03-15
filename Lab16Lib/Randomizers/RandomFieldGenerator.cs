@@ -17,12 +17,12 @@ namespace Lab16Lib.Randomizers
             => random.NextSingle() % (max - min) + min;
 
         public static uint SchoolID()
-            => Convert.ToUInt32(random.Next() + 1);
+            => Convert.ToUInt32(random.Next() % 10000 + 1);
         
         public static uint UniversityID()
-            => Convert.ToUInt32(random.Next() + 1);
+            => Convert.ToUInt32(random.Next() % 10000 + 1);
 
         public static int RandomID()
-            => random.Next();
+            => random.Next() % 10000000 + 1;
     }
 }

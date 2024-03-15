@@ -1,19 +1,17 @@
 using System.Runtime.Serialization.Formatters.Binary;
 
-using Lab16Lib.BinaryTree;
-using Lab16Lib.Entities;
+using Lab16Lib.Utils;
 
 namespace Lab16Lib.DumpLoaders
 {
-    public class BinaryDumpLoader : IDumpLoader<BinaryTree<Person>>
+    public class BinaryDumpLoader<T> : IDumpLoader<T> where T : class
     {
 #pragma warning disable SYSLIB0011 // Тип или член устарел
         private static readonly BinaryFormatter binaryFormatter = new();
 #pragma warning restore SYSLIB0011 // Тип или член устарел
 
-        public bool Dump(BinaryTree<Person> obj, string path, string filename) => Utils.WithFileStream(
+        public bool Dump(T obj, string path) => FileStreamWrapper.WithFileStream(
             path,
-            filename,
             true,
             fs =>
             {
@@ -23,11 +21,10 @@ namespace Lab16Lib.DumpLoaders
             _ => false
         );
 
-        public BinaryTree<Person>? Load(string path, string filename) => Utils.WithFileStream(
+        public T? Load(string path) => FileStreamWrapper.WithFileStream(
             path,
-            filename,
             false,
-            fs => binaryFormatter.Deserialize(fs) as BinaryTree<Person>,
+            fs => binaryFormatter.Deserialize(fs) as T,
             _ => null
         );
     }

@@ -3,6 +3,7 @@ using Lab16Lib.Exceptions;
 
 namespace Lab16Lib.BinaryTree
 {
+    [Serializable]
     public partial class BinaryTree<T> : ICollection<T>, ICloneable, IDisposable, IEquatable<BinaryTree<T>>
     where T : IComparable<T>, ICloneable, new()
     {

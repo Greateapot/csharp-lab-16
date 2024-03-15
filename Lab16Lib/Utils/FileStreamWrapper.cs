@@ -1,10 +1,9 @@
-namespace Lab16Lib
+namespace Lab16Lib.Utils
 {
-    public static class Utils
+    public static class FileStreamWrapper
     {
         public static T? WithFileStream<T>(
             string path,
-            string filename,
             bool write,
             Func<FileStream, T> predicate,
             Func<Exception, T>? onError = null
@@ -12,15 +11,14 @@ namespace Lab16Lib
         {
             try
             {
-                using var fs = new FileStream(
-                    Path.Combine(path, filename),
-                    FileMode.OpenOrCreate | (write ? FileMode.Truncate : 0),
-                    write ? FileAccess.Write : FileAccess.Read
-                );
+                using var fs = write 
+                    ? File.Open(path, FileMode.Create, FileAccess.Write, FileShare.None)
+                    : File.Open(path, FileMode.Open, FileAccess.Read, FileShare.None);
                 return predicate(fs);
             }
             catch (Exception e)
             {
+                // Console.WriteLine(e);
                 if (onError != null)
                     return onError(e);
                 else

@@ -1,5 +1,6 @@
 namespace Lab16Lib.BinaryTree
 {
+    [Serializable]
     public class BinaryTreeNode<T>(T value) where T : new()
     {
         public T Value { get; set; } = value;

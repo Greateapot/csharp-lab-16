@@ -1,20 +1,18 @@
 using Newtonsoft.Json;
 
-using Lab16Lib.BinaryTree;
-using Lab16Lib.Entities;
+using Lab16Lib.Utils;
 
 namespace Lab16Lib.DumpLoaders
 {
-    public class JsonDumpLoader : IDumpLoader<BinaryTree<Person>>
+    public class JsonDumpLoader<T> : IDumpLoader<T> where T : class
     {
         private static readonly JsonSerializer jsonSerializer = new()
         {
             TypeNameHandling = TypeNameHandling.Auto
         };
 
-        public bool Dump(BinaryTree<Person> obj, string path, string filename) => Utils.WithFileStream(
+        public bool Dump(T obj, string path) => FileStreamWrapper.WithFileStream(
             path,
-            filename,
             true,
             fs =>
             {
@@ -26,15 +24,14 @@ namespace Lab16Lib.DumpLoaders
             _ => false
         );
 
-        public BinaryTree<Person>? Load(string path, string filename) => Utils.WithFileStream(
+        public T? Load(string path) => FileStreamWrapper.WithFileStream(
             path,
-            filename,
             false,
             fs =>
             {
                 using var sr = new StreamReader(fs);
                 using var jtr = new JsonTextReader(sr);
-                return jsonSerializer.Deserialize<BinaryTree<Person>>(jtr);
+                return jsonSerializer.Deserialize<T>(jtr);
             },
             _ => null
         );

@@ -21,6 +21,25 @@ public class Lab16TestDumpLoaders
         Assert.Equal(people, news);
     }
 
+    // [Fact]
+    // public void BinaryDumpLoaderTest()
+    // {
+    //     // arrange
+    //     List<Person> people = [];
+    //     people.AddRange(RandomPersonGenerator.GetRandomPersons(10));
+    //     BinaryDumpLoader<List<Person>> binaryDumpLoader = new();
+
+    //     // act
+    //     var result = binaryDumpLoader.Dump(people, "people.test.dat");
+    //     var news = binaryDumpLoader.Load("people.test.dat");
+    //     var error = binaryDumpLoader.Load("lol.test.dat");
+
+    //     // assert
+    //     Assert.True(result);
+    //     Assert.True(error is null);
+    //     Assert.Equal(people, news);
+    // }
+
     [Fact]
     public void XmlDumpLoaderTest()
     {
